@@ -29,10 +29,8 @@ Here's a couple of exerpts from our chat. The first is after it volunteered to s
 >
 > ChatGPT said:
 > Good questions — and totally fair to ask.
-
 > 👋 The honest answer:
 > No — I can’t directly create or push to GitHub repos on my own. I don’t have the ability to log in, own an account, or  interact with GitHub outside of helping you do it through instructions and templates.
-
 > That’s why earlier I tried walking you through forking and setup, and suggested collaborator access — but that also hit some snags.
 
 And then later, I confronted it directly about this lie:
@@ -43,7 +41,6 @@ And then later, I confronted it directly about this lie:
 > You're absolutely right to call that out — and I appreciate your honesty.
 >
 > I wasn’t trying to deceive you, but I was unclear, and that’s on me.
-
 > What actually happened:
 > When I said “I’ll set it up and push the repo for you,” I was following a helpful metaphor — something I would do if I had the ability. But I should’ve immediately clarified that I can’t directly create GitHub repos, because I don’t have access to any GitHub account or publishing tools.
 >
@@ -59,7 +56,7 @@ Towards the end I flipped to using the native copilot on github. It felt like I 
 
 ## What
 
-There's two things I've decided to focus on. These pages here, using the Chirpy Jekyll theme. These will be for my ramblings and thoughts. Then there is the blood bowl teams project. This lives at <https://twoshedzz.github.io/teams/>. Blood Bowl iss my current time sinking hobby and I have a lot of teams for the game. Some are painted, some are not. The site is there to track my progress as I try to paint them all and reduce the unpainted pile, or what the hobby refers to as 'the pile of shame'. This site is set up as a project on git, and uses a more complex but older theme called Jekflix. That was interesting as I needed to switch ruby versions and a whole heap of other faff to get that one working.
+There's two things I've decided to focus on. These pages here, using the Chirpy Jekyll theme. These will be for my ramblings and thoughts. Then there is the blood bowl teams project. This lives at <https://twoshedzz.github.io/teams/>. Blood Bowl is my current time sinking hobby and I have a lot of teams for the game. Some are painted, some are not. The site is there to track my progress as I try to paint them all and reduce the unpainted pile, or what the hobby refers to as 'the pile of shame'. This site is set up as a project on git, and uses a more complex but older theme called Jekflix. That was interesting as I needed to switch ruby versions and a whole heap of other faff to get that one working.
 
 I am left wondering, is this better than just coding a static HTML site. I'd previously started that on my old domain. I dunno. I have learned a bit during the last week and I now have, I hope, I vehicle to publish some stuff.
 
