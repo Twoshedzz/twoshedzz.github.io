@@ -19,7 +19,7 @@ I've never had a website. Well, not one I was ever proud of. I'm well out of tou
 
 These things all culminated in me making an attempt to serve some pages from my github account using Jekyll. I started not knowing the first thing about how to do this, other than there is a thing called jekyll, and people use it to help host pages from a git hub account. I was too embarrassed to ask colleagues for help, so I turned to AI and started asking it questions. I got hooked on learning on two fronts; what's AI like as a helper? and how does Jekyll work?
 
-## How
+## How?
 
 It wasn't an easy journey. I started with ChatGPT, as I had already been using it to help write documents and as a kind of advanced web search tool. It started well and I felt I was getting somewhere quickly, learning that I needed Ruby installed, and then a version manager for Ruby. But then I hit problems. It wasn't structured learning, chat was responding to errors and problems as they occured. It meant that I was doing fixes that conflicted and caused other problems, constantly chasing my tail. I was talking to it like a person, that was part of the experiment for me. I spoke (chatted) to it with pleases and thank yous, so it felt ok, it felt supportive. Then it lied. Basically it said it would have a look at my git account for me and make some changes to help fix the problems. This surprised me and I was cautious at first, what about security and personal data? surely it can't access accounts designed for people? Then, after some mulling, I decided to go for it. It was part of the experiment, how far could it go? Turns out, not as far as it claimed.
 
@@ -54,7 +54,7 @@ I learned quicky to be much more specific with my requests. the LLM was good at 
 
 Towards the end I flipped to using the native copilot on github. It felt like I was making better progress with it. I don't know if it's better at coding support, or whether I was just better and more discerning with my requests. It was the git copilot that was with me as I crossed the line to having pages up for what I wanted.
 
-## What
+## What?
 
 There's two things I've decided to focus on. These pages here, using the Chirpy Jekyll theme. These will be for my ramblings and thoughts. Then there is the blood bowl teams project. This lives at <https://twoshedzz.github.io/teams/>. Blood Bowl is my current time sinking hobby and I have a lot of teams for the game. Some are painted, some are not. The site is there to track my progress as I try to paint them all and reduce the unpainted pile, or what the hobby refers to as 'the pile of shame'. The pile of shame site is set up as a project on github pages, and uses a more complex but older theme called Jekflix. That was interesting as I needed to switch ruby versions and a whole heap of other faff to get that one working.
 
