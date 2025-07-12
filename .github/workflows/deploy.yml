@@ -2,7 +2,7 @@ name: Build and Deploy Chirpy
 
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   build:
@@ -31,5 +31,5 @@ jobs:
         uses: actions/deploy-pages@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }} 
-          
+
 
