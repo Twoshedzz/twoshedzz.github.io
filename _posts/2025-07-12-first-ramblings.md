@@ -9,7 +9,7 @@ pin: true
 math: false
 mermaid: false
 image:
-  path: /assets/img/boom.jpg
+  path: /assets/img/Boom.jpg
   alt: Github chatbot helping me, eventually, to publish these pages
 ---
 
