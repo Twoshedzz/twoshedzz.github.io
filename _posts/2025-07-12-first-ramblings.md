@@ -1,7 +1,7 @@
 ---
 title: First Ramblings
 description: I'm learning how to use git pages and jekyll themes with the help and hinderance of AI
-# author: Pete Smith
+author: twoshedzz
 date: 2025-07-12 12:50:00 +0800
 categories: [Blogging]
 tags: [AI, Jekyll]
