@@ -1,6 +1,6 @@
 ---
 title: The Pile of Shame
-description: I've got a ton of blood bowl team, like I mean a ton, and I'm trying to paint them. Madness.
+description: I've got a lot of blood bowl teams, like a lot, and I'm trying to paint them all. Madness.
 author: twoshedzz
 date: 2025-07-14 17:50:00 +0800
 categories: [Blogging]
@@ -10,7 +10,7 @@ math: false
 mermaid: false
 image:
   path: /assets/img/imp_trio.jpg
-  alt: The miniatures from my Imperial Nobility Blood Bowl Team. Hurriedly painted these ones.
+  alt: Three miniatures from my Imperial Nobility Blood Bowl Team. Hurriedly painted these ones.
 ---
 
 
@@ -32,7 +32,7 @@ To play Blood Bowl you only really need one team of about 11 to 14 figures, repr
 
 And here they all are. 
 
-https://docs.google.com/spreadsheets/d/e/2PACX-1vRDbyrJW-5F1VEXXkPs9oZXIPSBXU0Jod9OJe6yimUJqUWAOARK9x7rKs4aGYdhCSDZk8FedgGTlP61/pubhtml
+<https://docs.google.com/spreadsheets/d/e/2PACX-1vRDbyrJW-5F1VEXXkPs9oZXIPSBXU0Jod9OJe6yimUJqUWAOARK9x7rKs4aGYdhCSDZk8FedgGTlP61/pubhtml>
 
 The list keeps getting longer. The sheet tracks which teams are painted and which have actually been used in a game. In the hobby, the pile of unpainted miniatures is called your ‘pile of shame’.
 
@@ -48,6 +48,7 @@ I’m just using my iPhone12 Pro to take the photos. just hand held at 2x zoom w
 
 Right now I’m mostly going through a backlog of stuff already painted or part painted and slapping photos up. I have this notion I might write stuff about each team and why I picked the colours or maybe even what was happening then. That’s it. Blood Bowl teams, on a jekyll theme. 
 
-
+You can see it here:
+<https://twoshedzz.github.io/teams/>
 
 #twoshedzz
