@@ -16,37 +16,37 @@ image:
 
 ## Obsessive gaming
 
-I’ve pretty much always had a game I obsess about. Maybe even a couple of games. More if you include video and tabletop games. Dungeons and Dragons has occupied a slot in the top three for over 40 years now. That’s probably another rambling. In the world of table top wargaming, I’ve also obsessed with Warhammer 40k and x-wing miniatures. My latest poison though is Blood Bowl. Not strictly a wargame, but it does involve thumping, miniatures and a ball. It’s like miniatures game of American football, with more violence, played by orcs, goblins and elves.
+I’ve pretty much always had a game I obsess about. Maybe even a couple of games. More if you include video games as well as table top. Dungeons and Dragons has occupied a slot in the top three for over 40 years now. That’s probably another ramble. In the world of table top wargaming, I’ve dabbled obsessively with Warhammer 40k and the X-wing miniatures game. My latest poison though, is Blood Bowl. Not strictly a wargame, but it does involve the conceprt of fighting and thumping using miniatures and a ball. It’s like a miniatures game of American football, with more violence, played by orcs, goblins and elves.
 
 ## Blood Bowl Evolution
 
-The game has been around a while. The first edition came out in the 80s, the players were card standees and the rules were closest to Warhammer fantasy battle. I still have my copy. I’ll never play it though, so it;s another nostalgia box taking up space on the shelf. I had the second and third editions too. I sold them though, to MS Paints, who might make a video on them , like he did on the space hulk set I sold him (at a steel of a price).
+The game has been around a while. [The first edition](https://boardgamegeek.com/boardgame/3071/blood-bowl) came out in the 80s. The players were card standees and the rules were closest to Warhammer fantasy battle, with tables to cross reference strength against Toughness. I still have my copy. I’ll never play it though, so it's just another nostalgia box taking up space on the shelf. I had the second and third editions too. I sold them, to MS Paints, who might make a video on them, like he did on the [Space Hulk](https://www.youtube.com/watch?app=desktop&v=acrf6TQbU4s&t=0s&ab_channel=MS_Paints) set I sold him (at a steel of a price, but st least it;s getting seen now instead of gathering dust on a shelf).
 
-I dipped in and out of Blood Bowl, I ran a league at south london warlords I’d forgotten about and found the paper work for recently. I ditched it then though (the illegal procedure rule was a bit of a pain I found). and Blood Bowl was quiet for me for a while, until lockdown. Then a bunch of guys from university started playing a Blood Bowl league on line (there’s a decent video game version). Then I was hooked again.
+I dipped in and out of Blood Bowl. I ran a league at South London Warlords for a while. That was about the time of thirdedition when the game was ditched by Games Workshop and it was kept alive by a strong community, in the early days of the interwbs. There's a history of the game on the [NF website](https://www.thenaf.net/about-the-naf/bb-history/), the international association of Blood Bowl players through which most tournaments are goverened. I took a break and Blood Bowl after about 2006 and it was quiet for me for a while, until lockdown. Then a bunch of guys from university started playing a Blood Bowl league online (there’s a decent video game version). Then I was hooked again.
 
-I bought a set of the new version from Ross at EH Gaming in York and the snow ball was already starting to gain momentum and size.
+When bought a set of the new version from Ross at [EH Gaming](https://www.ehgaming.com/) in York (my friendly board ganme store of choice), the snow ball was already starting to gain momentum and size. I had a sense the new obsession was growing.
 
 ## The collection
 
-To play Blood Bowl you only really need one team of about 11 to 14 figures, representing your players. There are loads of different types of teams though all with there own special abilities and characterisitcs. For those who gotta collect them all, it’s a mine field. Not only are there official Games Workshop / Warhammer teams, injection moulded glue together kits, there are a load of people out there producing fantastic and varied STLs to download and print. I got hooked. I started collecting teams.
+To play Blood Bowl you only really need about 11 to 14 figures, representing the players in your team. There are loads of different types of teams, all with there own special abilities and characterisitcs. For those who gotta collect them all, it’s a mine field. Not only are there official Games Workshop / Warhammer teams (injection moulded glue together kits), there are a load of people out there producing fantastic and varied files to print your own teams using resing 3D printers. I got hooked. I started collecting teams.
 
-And here they all are. 
+And here they all are. (STL referenced in the document, is the file format used for 3D printing)
 
 <https://docs.google.com/spreadsheets/d/e/2PACX-1vRDbyrJW-5F1VEXXkPs9oZXIPSBXU0Jod9OJe6yimUJqUWAOARK9x7rKs4aGYdhCSDZk8FedgGTlP61/pubhtml>
 
 The list keeps getting longer. The sheet tracks which teams are painted and which have actually been used in a game. In the hobby, the pile of unpainted miniatures is called your ‘pile of shame’.
 
-During the assembly of this I bought my own 3D printer to keep up with my craving for more teams. It’s pretty obsessive behaviour. I see a team, think ‘oo they look cool, if I play that race I’m defo going to use those models’… and then another row gets added.
+During the assembly of this collection I bought my own resin 3D printer to keep up with my craving for more teams. It’s pretty obsessive behaviour. I see a team, think ‘oo they look cool, if I play that race I’m defo going to use those models'. And then another row gets added.
 
 ## Painting
 
-I think I’m comfortable with the fact I’m unlikely to use all the teams in games. But I enjoy the painting process. So I have this goal of getting them all painted. It’s probably unachievable.
+I think I’m comfortable with the fact I’m unlikely to use all the teams in actual play. But I enjoy the painting process. So I have this goal of getting them all painted. It’s probably unachievable.
 
 ## Photography
 
-I’m just using my iPhone12 Pro to take the photos. just hand held at 2x zoom while trying to get as much diffused light as possible. They aren’t awesome photos, but they are good enough.
+I’m just using my iPhone12 Pro to take the photos. I just hand hold it with 2x zoom, while trying to get as much diffused light as possible. They aren’t awesome photos, but they are good enough.
 
-Right now I’m mostly going through a backlog of stuff already painted or part painted and slapping photos up. I have this notion I might write stuff about each team and why I picked the colours or maybe even what was happening then. That’s it. Blood Bowl teams, on a jekyll theme. 
+Right now I’m mostly going posting stuff already painted. I have this notion I might write stuff about each team and why I picked the colours or maybe even what was happening then. That’s it. Blood Bowl teams, on a jekyll theme. 
 
 You can see it here:
 <https://twoshedzz.github.io/teams/>
