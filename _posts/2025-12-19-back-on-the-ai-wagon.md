@@ -1,6 +1,6 @@
 ---
-title: TBack on the AI wagon (again)
-description: I've dabbled back into AI to help write code, again. This time it's aps.
+title: Back on the AI wagon (again)
+description: I've dabbled back into AI to help write code, again, this time it's apps.
 author: twoshedzz
 date: 2025-12-19 21:29:00 +0800
 categories: [Blogging]
@@ -13,21 +13,12 @@ image:
   alt: A screen shot of a blood bowl roster builder app, produced in Claude and Cursor, published in GitPages.
 ---
 
----
-title: "Back on the AI Wagon (Again)"
-date: 2025-01-XX
-categories:
-  - ai
-  - coding
-  - blood-bowl
----
-
 I’d gone quiet on the coding and AI stuff.
 
 Not intentionally — just distracted, busy, and probably a bit overwhelmed. I’d been obsessing over ChatGPT and GitHub Copilot for a while and hadn’t really looked at all the *other* tools that keep popping up. There are loads of them now. It all felt… confusing.
 
 Then, at a recent works do, my interest was piqued again by a colleague who’d casually mentioned they’d *“made an app”* using **Lovable**.  
-([Lovable link goes here])
+
 
 That stuck with me.
 
