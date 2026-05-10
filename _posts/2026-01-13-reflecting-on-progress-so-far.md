@@ -5,7 +5,7 @@ author: twoshedzz
 date: 2026-01-13 12:00:00 +0800
 categories: [Blogging]
 tags: [AI, Reflection, Coding]
-pin: true
+pin: false
 math: false
 mermaid: false
 image:
