@@ -11,6 +11,11 @@ lang: en
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Europe/London
 
+# Include posts whose date/time is still “ahead” of the build clock (UTC). Without this,
+# an afternoon local timestamp on publish day can be omitted from the live site because
+# GitHub Actions builds in UTC before that instant.
+future: true
+
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
