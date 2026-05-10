@@ -5,7 +5,7 @@ author: twoshedzz
 date: 2025-07-12 12:50:00 +0800
 categories: [Blogging]
 tags: [AI, Jekyll]
-pin: true
+pin: false
 math: false
 mermaid: false
 image:

@@ -5,7 +5,7 @@ author: twoshedzz
 date: 2025-07-14 17:50:00 +0800
 categories: [Blogging]
 tags: [Bloodbowl, Jekyll]
-pin: true
+pin: false
 math: false
 mermaid: false
 image:

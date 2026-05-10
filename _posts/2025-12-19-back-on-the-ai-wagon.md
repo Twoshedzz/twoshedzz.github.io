@@ -5,7 +5,7 @@ author: twoshedzz
 date: 2025-12-19 21:29:00 +0800
 categories: [Blogging]
 tags: [Bloodbowl, AI]
-pin: true
+pin: false
 math: false
 mermaid: false
 image:
