@@ -9,7 +9,7 @@ pin: true
 math: false
 mermaid: false
 image:
-  path: /assets/img/builder-screenshot.jpg
+  path: /assets/img/posts/2025-12-19-back-on-the-ai-wagon/builder-screenshot.jpg
   alt: A screen shot of a blood bowl roster builder app, produced in Claude and Cursor, published in GitPages.
 ---
 

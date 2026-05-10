@@ -211,6 +211,7 @@ exclude:
   - docs
   - tools
   - README.md
+  - POSTING.md
   - LICENSE
   - purgecss.js
   - "*.config.js"

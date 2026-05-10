@@ -9,7 +9,7 @@ pin: true
 math: false
 mermaid: false
 image:
-  path: /assets/img/coastal-reflection.jpg
+  path: /assets/img/posts/2026-01-13-reflecting-on-progress-so-far/coastal-reflection.jpg
   alt: A photo taken at Longniddry beach in East Lothian - a perfect spot for reflection, with vibrant sunset colors reflected in calm waters
 ---
 

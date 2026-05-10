@@ -9,7 +9,7 @@ pin: true
 math: false
 mermaid: false
 image:
-  path: /assets/img/imp_trio.jpg
+  path: /assets/img/posts/2025-07-14-the-pile-of-shame/imp_trio.jpg
   alt: Three miniatures from my Imperial Nobility Blood Bowl Team. Hurriedly painted these ones.
 ---
 
