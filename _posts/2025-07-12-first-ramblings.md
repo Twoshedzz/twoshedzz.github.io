@@ -1,6 +1,6 @@
 ---
 title: First Ramblings
-description: I'm learning how to use git pages and jekyll themes with the help and hinderance of AI
+description: I'm learning how to use git pages and jekyll themes with the help and hindrance of AI
 author: twoshedzz
 date: 2025-07-12 12:50:00 +0800
 categories: [Blogging]
@@ -21,9 +21,9 @@ These things all culminated in me making an attempt to serve some pages from my 
 
 ## How?
 
-It wasn't an easy journey. I started with ChatGPT, as I had already been using it to help write documents and as a kind of advanced web search tool. It started well and I felt I was getting somewhere quickly, learning that I needed Ruby installed, and then a version manager for Ruby. But then I hit problems. It wasn't structured learning, chat was responding to errors and problems as they occured. It meant that I was doing fixes that conflicted and caused other problems, constantly chasing my tail. I was talking to it like a person, that was part of the experiment for me. I spoke (chatted) to it with pleases and thank yous, so it felt ok, it felt supportive. Then it lied. Basically it said it would have a look at my git account for me and make some changes to help fix the problems. This surprised me and I was cautious at first, what about security and personal data? surely it can't access accounts designed for people? Then, after some mulling, I decided to go for it. It was part of the experiment, how far could it go? Turns out, not as far as it claimed.
+It wasn't an easy journey. I started with ChatGPT, as I had already been using it to help write documents and as a kind of advanced web search tool. It started well and I felt I was getting somewhere quickly, learning that I needed Ruby installed, and then a version manager for Ruby. But then I hit problems. It wasn't structured learning, chat was responding to errors and problems as they occurred. It meant that I was doing fixes that conflicted and caused other problems, constantly chasing my tail. I was talking to it like a person, that was part of the experiment for me. I spoke (chatted) to it with pleases and thank yous, so it felt ok, it felt supportive. Then it lied. Basically it said it would have a look at my git account for me and make some changes to help fix the problems. This surprised me and I was cautious at first, what about security and personal data? surely it can't access accounts designed for people? Then, after some mulling, I decided to go for it. It was part of the experiment, how far could it go? Turns out, not as far as it claimed.
 
-Here's a couple of exerpts from our chat. The first is after it volunteered to set up a fresh working repo for me to serve these pages. It took a while, asking me to wait 10 minutes while it did the work. But after some prods, it turns out the repo wasn't there.
+Here's a couple of excerpts from our chat. The first is after it volunteered to set up a fresh working repo for me to serve these pages. It took a while, asking me to wait 10 minutes while it did the work. But after some prods, it turns out the repo wasn't there.
 
 > Me: have you made a repo before? do you have permission?
 >
@@ -50,7 +50,7 @@ I felt daft twice. Daft for not understanding Jekyll in the first place and then
 
 It read like a sincere apology at least.
 
-I learned quicky to be much more specific with my requests. the LLM was good at scanning log files and segments of code to explain error messages. I mixed in some conventional google searching and watched a few videos on you tube of people setting up pages. It was a slow process. Structured learning might have been better. But I did get there. Eventually.
+I learned quickly to be much more specific with my requests. The LLM was good at scanning log files and segments of code to explain error messages. I mixed in some conventional google searching and watched a few videos on you tube of people setting up pages. It was a slow process. Structured learning might have been better. But I did get there. Eventually.
 
 Towards the end I flipped to using the native copilot on github. It felt like I was making better progress with it. I don't know if it's better at coding support, or whether I was just better and more discerning with my requests. It was the git copilot that was with me as I crossed the line to having pages up for what I wanted.
 
@@ -58,5 +58,5 @@ Towards the end I flipped to using the native copilot on github. It felt like I 
 
 There's two things I've decided to focus on. These pages here, using the Chirpy Jekyll theme. These will be for my ramblings and thoughts. Then there is the blood bowl teams project. This lives at <https://twoshedzz.github.io/teams/>. Blood Bowl is my current time sinking hobby and I have a lot of teams for the game. Some are painted, some are not. The site is there to track my progress as I try to paint them all and reduce the unpainted pile, or what the hobby refers to as 'the pile of shame'. The pile of shame site is set up as a project on github pages, and uses a more complex but older theme called Jekflix. That was interesting as I needed to switch ruby versions and a whole heap of other faff to get that one working.
 
-I am left wondering, is this better than just coding a static HTML site. I'd previously started that on my old domain. I dunno. I have learned a bit during the last week and I now have, I hope, I vehicle to publish some stuff.
+I am left wondering, is this better than just coding a static HTML site. I'd previously started that on my old domain. I dunno. I have learned a bit during the last week and I now have, I hope, a vehicle to publish some stuff.
 
