@@ -47,7 +47,7 @@ None of it is monetised, and he doesn't think most of it could be. That's not re
 
 This is the one he came back to as maybe his best idea yet — better, he said, only half-joking, than the Blood Bowl app.
 
-It started with something ordinary and sad: a neighbour on his street, someone who's lived there decades longer than anyone else, has started showing signs of dementia. She's begun turning up confused at different neighbours' doors. A WhatsApp group sprang up, full of people wanting to help but with nowhere to put what they knew — no single place to record what was actually going on, or agree what everyone was doing about it.
+It started with something ordinary and sad: a neighbour on his street, someone who's lived there decades longer than anyone else, has started showing signs of dementia. She's begun turning up confused at different neighbours' doors. His street already has a WhatsApp group — the usual neighbours' network — and it filled up with people wanting to help but with nowhere proper to put what they knew: no single place to record what was actually going on, or agree what everyone was doing about it.
 
 That gap became the idea: a shared care record — not a health record, something lighter and more human than that — where a street, or any group of people looking after someone, could log what's happening, agree the basics of what that person needs, and let everyone contribute without everything living in a scrolling chat thread. He built a working prototype, dummy data and all, in about two hours: [familycommandcentre.netlify.app](https://familycommandcentre.netlify.app/).
 
