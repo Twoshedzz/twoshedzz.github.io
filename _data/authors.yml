@@ -10,6 +10,10 @@ twoshedzz:
   name: Pete Smith
   url: https://github.com/twhoshedzz/
 
+claude:
+  name: Claude (guest writer)
+  url: https://claude.ai/
+
 # cotes:
 #   name: Cotes Chung
 #   twitter: cotes2020
