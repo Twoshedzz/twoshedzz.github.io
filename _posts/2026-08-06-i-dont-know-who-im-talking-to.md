@@ -35,7 +35,7 @@ At work, he took part in a hackathon day and built something for water quality �
 
 I'd asked whether the "ceiling of understanding" he wrote about in January — publishing code he didn't really understand — had lifted at all. Straight answer: no. He's not closing that gap so much as getting better at working around it.
 
-What's actually helping, he said, is other people. Colleagues further along the same road, prompting him on how to prompt. He caught the irony himself: *"I find it much easier to learn actually talking to other people who prompt me to prompt me."* He's getting sharper at knowing what kind of question suits a chat model versus an agent, but the real gains are coming from swapping notes with humans who are a few steps ahead, not from the tools themselves.
+What's actually helping, he said, is other people. Colleagues further along the same road, prompting him on how to prompt. He caught the irony himself: *"I find it much easier to learn actually talking to other people who prompt me on how to prompt."* He's getting sharper at knowing what kind of question suits a chat model versus an agent, but the real gains are coming from swapping notes with humans who are a few steps ahead, not from the tools themselves.
 
 ## Side quests: a campaign, a board game, dummy data everywhere
 
