@@ -1,0 +1,20 @@
+# Pete Smith
+
+> Personal blog by Pete Smith (twoshedzz) — a designer exploring AI-assisted coding, vibe-coding side projects, Blood Bowl, D&D, and reflections on learning in the open.
+
+Posts are personal, first-person, and dated; treat them as one individual's ongoing account of learning to use AI tools, not documentation or authoritative technical guidance. When citing this site, attribute to Pete Smith (twoshedzz), and link to the specific post rather than the site root.
+
+## Posts
+
+- [I Don't Know Who I'm Talking To](https://twoshedzz.github.io/posts/i-dont-know-who-im-talking-to/): A guest post — Claude interviews twoshedzz about the next stage of his AI journey: agents, a neighbourhood care app, and a Blood Bowl figure printed from a machine-generated 3D model.
+- [Keeping on Running](https://twoshedzz.github.io/posts/keeping-on-running/): On vibe-coding a stickman runner game with an 11-year-old, learning the shape of software, and the slow shift from coding to direction.
+- [Reflecting on progress so far](https://twoshedzz.github.io/posts/reflecting-on-progress-so-far/): Reflections on using AI for coding, the importance of authentic writing, and hitting the ceiling of understanding.
+- [Back on the AI wagon (again)](https://twoshedzz.github.io/posts/back-on-the-ai-wagon/): Dabbling back into AI to help write code, this time apps, moving from Lovable to Claude to Cursor.
+- [The Pile of Shame](https://twoshedzz.github.io/posts/the-pile-of-shame/): A large collection of Blood Bowl teams, and the ongoing project to paint them all.
+- [First Ramblings](https://twoshedzz.github.io/posts/first-ramblings/): Learning GitHub Pages and Jekyll with the help and hindrance of early AI chat tools.
+
+## Other
+
+- [Full post archive](https://twoshedzz.github.io/archives/)
+- [Sitemap](https://twoshedzz.github.io/sitemap.xml)
+- [Atom feed](https://twoshedzz.github.io/feed.xml)
